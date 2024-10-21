@@ -1,4 +1,7 @@
 streamlit
 scikit-learn
+sklearn.model_selection
+sklearn.preprocessing
+sklearn.ensemble
 pandas
 numpy
