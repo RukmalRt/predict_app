@@ -7,7 +7,7 @@ from sklearn.metrics import mean_squared_error
 import streamlit as st
 
 # Load and preprocess the data
-df = pd.read_csv(r'C:\Users\Rukmal\PycharmProjects\pythonProject\melbourne.csv')
+df = pd.read_csv('melbourne.csv')
 
 # Encoding categorical columns with LabelEncoder
 label_cols = ['Suburb', 'Type', 'Regionname']
