@@ -1,9 +1,9 @@
 import pandas as pd
-from scikit-learn.model_selection import train_test_split
-from scikit-learn.preprocessing import LabelEncoder, StandardScaler
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import LabelEncoder, StandardScaler
 import numpy as np
-from scikit-learn.ensemble import RandomForestRegressor
-from scikit-learn.metrics import mean_squared_error
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.metrics import mean_squared_error
 import streamlit as st
 
 # Load and preprocess the data
