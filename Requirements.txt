@@ -1,6 +1,4 @@
-scikit-learn
 streamlit
-train_test_split
-LabelEncoder
-StandardScaler
-RandomForestRegressor
+scikit-learn
+pandas
+numpy
