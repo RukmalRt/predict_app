@@ -1,9 +1,2 @@
 streamlit
 scikit-learn
-scikit-learn.model_selection
-sklearn.preprocessing
-sklearn.ensemble
-pandas
-numpy
-train_test_split
-
